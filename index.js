@@ -40,21 +40,21 @@ const { ind } = require('./language')
 /********** MENU SETTING **********/
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:2.0\n' 
-            + 'FN:𝕸𝖗.𝕻𝖆𝖙𝖔⚜️🦆⁩⁩\n' 
-            + 'ORG:𝕸𝖗.𝕻𝖆𝖙𝖔⚜️🦆⁩;\n' 
+            + 'FN:ANONYMOUS⁩⁩\n' 
+            + 'ORG:ANONYMOUS⁩;\n' 
             + 'TEL;type=CELL;type=VOICE;waid=17693039223+1 (769) 303-9223n' 
             + 'END:VCARD' 
 blocked = []   
 prefix = '#'
 limitawal = 30
 memberlimit = 0
-ator = 'SUBSCRIBE'
-namo = 'Mr.Pato'
+ator = 'SOMOS'
+namo = 'ANONYMOYS'
 cr = '𝕸𝖗.𝕻𝖆𝖙𝖔 -𝕭𝖔𝖙⚜️🦆⁩⁩'
 /*************************************/
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["5213317595519@s.whatsapp.net","5213317595519@s.whatsapp.net"] 
+const ownerNumber = ["+34626218348@s.whatsapp.net","+34671358468@s.whatsapp.net", ,"+652022306@s.whatsapp.net"] 
 /************************************/
 
        
